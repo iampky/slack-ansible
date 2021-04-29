@@ -1,7 +1,7 @@
 slash_cmd: run-playbook
 slack_interactive: interactive-component
 slack_token: TlvmCpoqJ5LQqHT5J64kqfyY
-slack_bot_token: xoxb-1289970300372-2027267150577-ZVFrqdv7LXVcjSBOXerhUt80
+slack_bot_token: xoxb-1289970300372-2027267150577-TIYzIHCTWQPncjmUGBKhW01W
 slack_webhook: https://hooks.slack.com/services/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
 tower_hostname: 10.200.0.115
 tower_username: rainnet
